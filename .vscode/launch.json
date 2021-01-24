@@ -6,23 +6,23 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - HELLO",
-            "request": "launch",
-            "mainClass": "HELLO",
-            "projectName": "JAVA_dccc0072"
-        },
-        {
-            "type": "java",
-            "name": "Debug (Launch) - Current File",
+            "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
         },
         {
             "type": "java",
-            "name": "Debug (Launch)-HELLO<JAVA_21ff48ea>",
+            "name": "Launch HELLO",
             "request": "launch",
-            "mainClass": "HELLO",
-            "projectName": "JAVA_21ff48ea"
+            "mainClass": "HelloJava.HELLO",
+            "projectName": "JAVA_dccc0072"
+        },
+        {
+            "type": "java",
+            "name": "Launch jiajianchengchu",
+            "request": "launch",
+            "mainClass": "jiajianchengchu.jiajianchengchu",
+            "projectName": "JAVA_dccc0072"
         }
     ]
 }
